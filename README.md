@@ -1,6 +1,6 @@
-<h1 style="font-size:26px;" >Hi, I’m Anwar <span class="wave">👋</span> </h1> 
 
-<h3 align="center">
+
+<h3 align="center", font-size:26px>
     Hi, I’m Anwar
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
