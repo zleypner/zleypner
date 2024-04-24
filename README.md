@@ -10,4 +10,6 @@ Contact me at anwar.sanchz@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zleypner)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zleypner&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=your-github-zleypner&label=PROFILE+VIEWS)
