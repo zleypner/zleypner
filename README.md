@@ -1,5 +1,5 @@
-<h1 style="font-size:26px">Hi there 👋</h1> 
-#Hi, I’m Anwar 👋I am a passionate full-stack developer on an endless quest to discover and master the latest technologies. 
+<h1 style="font-size:26px; text-align:center;" >Hi, I’m Anwar 👋</h1> 
+I am a passionate full-stack developer on an endless quest to discover and master the latest technologies. 
 My journey is fueled by a deep curiosity and a love for learning.
 Proficient in HTML, CSS, JavaScript, React and an array of other tools, I approach each project with dedication and a commitment to excellence.
 
