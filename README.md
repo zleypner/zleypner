@@ -1,6 +1,6 @@
 
 
-<h3 align="center" style="font-size:30px">
+<h3 align="center" font-size="30px">
     Hi, I’m Anwar
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
