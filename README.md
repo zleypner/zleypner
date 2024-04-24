@@ -1,15 +1,5 @@
-    
-
-    <h3 style= "text-align: center;  font-size: 30px; ">
-        Hi, I’m Anwar
-        <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-             alt="Waving hand animated gif"
-             height="45"
-             width="45" />
-    </h3>
-
-
-
+<h1 style=font-size:25px>Hi, I’m Anwar 👋</h1> 
+        
 I am a passionate full-stack developer on an endless quest to discover and master the latest technologies. 
 My journey is fueled by a deep curiosity and a love for learning.
 Proficient in HTML, CSS, JavaScript, React and an array of other tools.
