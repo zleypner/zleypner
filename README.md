@@ -4,7 +4,7 @@ I am a passionate full-stack developer on an endless quest to discover and maste
 My journey is fueled by a deep curiosity and a love for learning.
 Proficient in HTML, CSS, JavaScript, React and an array of other tools.
 
-I am drawn to the frontier of Web 3 and open-source collaboration, where I seek to contribute and innovate.
+I am drawn to the Web 3 and open-source collaboration, where I seek to contribute and innovate.
 
 Contact me at anwar.sanchz@gmail.com
  <div>
