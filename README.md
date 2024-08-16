@@ -1,6 +1,6 @@
 <h1 style=font-size:25px>Hi, I’m Anwar 👋</h1> 
         
-I am a passionate full-stack developer on an endless quest to discover and master the latest technologies. 
+I am a passionate Front-End developer on an endless quest to discover and master the latest technologies. 
 My journey is fueled by a deep curiosity and a love for learning.
 Proficient in HTML, CSS, JavaScript, React and an array of other tools.
 
