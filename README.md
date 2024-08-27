@@ -9,11 +9,8 @@ I am drawn to the Web 3 and open-source collaboration, where I seek to contribut
 
 <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" style="width: 50px; height: 50px;"
 alt="CSS icon">
-
-<img src="
-https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" style="width: 50px; height: 50px;"
-alt=" React icon">
-
+<img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" style="width: 50px; height: 50px;"
+alt="React icon">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" style="width: 50px; height: 50px;"
 alt=" JS icon">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" style="width: 50px; height: 50px;"
