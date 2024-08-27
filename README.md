@@ -17,7 +17,6 @@ alt=" JS icon">
 alt="Angular icon">
 <img src="https://cdn2.iconfinder.com/data/icons/coding-files-extensions/512/coding-file-extension-java-256.png" style="width: 50px; height: 50px;"
 alt=" JAVA icon">
-
 <img src="https://camo.githubusercontent.com/b0432ab0567d45add9bf155718ab7de57c330cd3acd719374fae0384e95688c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="node icon">
 
 </div>
