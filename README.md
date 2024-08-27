@@ -7,7 +7,7 @@ Proficient in HTML, CSS, JavaScript, React and an array of other tools.
 I am drawn to the Web 3 and open-source collaboration, where I seek to contribute and innovate.
  <div>
 
-<img src="[76f436f6c6f723d7768697465](https://www.iconfinder.com/icons/294692/css3_icon)"
+<img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png"
 alt="CSS icon">
 <img src="https://camo.githubusercontent.com/6c62369c4e99b8a15e8bc2252842ba29e6af1a870849ba36b78e534304113437/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241433f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" alt="Tailwind icon">
 <img src="https://camo.githubusercontent.com/84372c7d2f1a7308844360ecad82d49b3f6cbc068a0c5e31aeea6ca5344b77ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="Js icon">         
