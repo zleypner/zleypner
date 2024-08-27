@@ -9,10 +9,17 @@ I am drawn to the Web 3 and open-source collaboration, where I seek to contribut
 
 <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" style="width: 50px; height: 50px;"
 alt="CSS icon">
-<img src="https://camo.githubusercontent.com/6c62369c4e99b8a15e8bc2252842ba29e6af1a870849ba36b78e534304113437/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241433f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" alt="Tailwind icon">
-<img src="https://camo.githubusercontent.com/84372c7d2f1a7308844360ecad82d49b3f6cbc068a0c5e31aeea6ca5344b77ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="Js icon">         
-<img src="https://camo.githubusercontent.com/6c3957842901e5baa389f3bb8758c8966683333b28493013062fcab5fab645e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" alt="react icon">
-<img src="https://camo.githubusercontent.com/97e4486ea1fccfd64d1b5209e98b2d9905f122feca0116f4ae1a53355541320e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782532302d2532333539336438382e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" alt="react icon">
+
+<img src="
+https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" style="width: 50px; height: 50px;"
+alt=" React icon">
+
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" style="width: 50px; height: 50px;"
+alt=" JS icon">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" style="width: 50px; height: 50px;"
+alt="Angular icon">
+<img src="https://cdn2.iconfinder.com/data/icons/coding-files-extensions/512/coding-file-extension-java-256.png" style="width: 50px; height: 50px;"
+alt=" JAVA icon">
 
 <img src="https://camo.githubusercontent.com/b0432ab0567d45add9bf155718ab7de57c330cd3acd719374fae0384e95688c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="node icon">
 
