@@ -17,7 +17,7 @@ alt=" JS icon">
 alt="Angular icon">
 <img src="https://cdn2.iconfinder.com/data/icons/coding-files-extensions/512/coding-file-extension-java-256.png" style="width: 50px; height: 50px;"
 alt=" JAVA icon">
-<img src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/256/Ethereum-ETH-icon.png" alt="node icon">
+<img src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/256/Ethereum-ETH-icon.png"  style="width: 50px; height: 50px;" alt="node icon">
 
 </div>
 
