@@ -1,9 +1,5 @@
 <h1 style=font-size:25px>Hi, I’m Anwar 👋</h1> 
         
-
-Memory updated
-Here's an improved version of your statement:
-
 I am a passionate Software Engineer with a journey fueled by deep curiosity and a love for continuous learning. 
 My expertise spans a wide range of technologies, JavaScript, React, TypeScript, C#, Java, and Cairo.
 
