@@ -1,10 +1,13 @@
 <h1 style=font-size:25px>Hi, I’m Anwar 👋</h1> 
         
-I am a passionate Full Stack Web Developer on an endless quest to discover and master the latest technologies. 
-My journey is fueled by a deep curiosity and a love for learning.
-Proficient in HTML, CSS, JavaScript, React and an array of other tools.
 
-I am drawn to the Web 3 and open-source collaboration, where I seek to contribute and innovate.
+Memory updated
+Here's an improved version of your statement:
+
+I am a passionate Software Engineer with a journey fueled by deep curiosity and a love for continuous learning. 
+My expertise spans a wide range of technologies, JavaScript, React, TypeScript, C#, Java, and Cairo.
+
+I am particularly drawn to Web3 and open-source collaboration, where I aim to contribute, innovate, and make an impact.
  <div>
 
 <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" style="width: 50px; height: 50px;"
