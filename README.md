@@ -1,10 +1,16 @@
 <h1 style=font-size:25px>Hi, I’m Anwar 👋</h1> 
         
-I am a passionate Software Engineer with a journey fueled by deep curiosity and a love for continuous learning. 
-My expertise spans a wide range of technologies, JavaScript, React, TypeScript, C#, Java, and Cairo.
+Working as Software Engineer in a Fintech Unicorn.
+Learning Web3 and applying it in Open Source Software.
 
 I am particularly drawn to Web3 and open-source collaboration, where I aim to contribute, innovate, and make an impact.
  <div>
+<div>
+  <h3> Tech Stack</h3>
+  <img src=https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,cairo,solidity,rust,git,nodejs,npm/>
+</div>
+
+ 
 
 <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" style="width: 50px; height: 50px;"
 alt="CSS icon">
