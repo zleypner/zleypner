@@ -1,9 +1,11 @@
 <h1 style=font-size:25px>Hi, I’m Anwar 👋</h1> 
         
-Working as Software Engineer 
-Learning Web3 and applying it in Open Source Software.
+## 👨‍💻 Software Engineer | Open Source Enthusiast
 
-I am particularly drawn to Web3 and open-source collaboration, where I aim to contribute, innovate, and make an impact.
+I'm passionate about **Web3 technologies** and actively applying my skills through contributions to **Open Source Software**. My focus is on driving innovation and making a meaningful impact within the Web3 ecosystem through collaboration and code.
+
+---
+
  <div>
 <div>
   <h3> Tech Stack</h3>
