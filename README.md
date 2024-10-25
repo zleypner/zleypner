@@ -1,7 +1,7 @@
 <h1 style=font-size:25px>Hi, I’m Anwar 👋</h1> 
 
 ##  💻  Software Engineer | Web3 Enthusiast
-- 🔭 I’m currently working as working as Web Developer
+- 🔭 I’m currently working as Web Developer
 - 🌱 I’m currently learning Web 3 technologies
 - 👯 I’m looking to collaborate on **Web3 and blockchain development**.
 ---
