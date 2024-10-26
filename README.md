@@ -9,7 +9,7 @@
  <div>
 <div>
   <h3> Tech Stack</h3>
-  <img src=https://go-skill-icons.vercel.app/api/icons?i=ts,react,angular,js,html,css,cairo,solidity,rust,git,nodejs,npm,sql,express,sass/>
+  <img src=https://go-skill-icons.vercel.app/api/icons?i=ts,react,angular,js,html,css,cairo,solidity,rust,git,nodejs,npm,sql,/>
 </div>
 <br/>
 
