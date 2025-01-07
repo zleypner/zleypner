@@ -5,7 +5,7 @@
 ### Building 🚀
 - 🛠️ Contributing to Web3 open source projects
 - 🔗 Exploring blockchain solutions for real-world use cases
-- 👀 I’m interested in fullstack and Web3 Developme
+- 👀 I’m interested in fullstack and Web3 Development
 
 Let's build something amazing! ✨
 ---
