@@ -2,8 +2,9 @@
 
 ##  🔭   Software Engineer | 💻 Web3 Enthusiast
 - 🏰 I’m building a Security Deposits app on Blockchain
-- 👯 I’m looking to collaborate on **Web3 and blockchain development**.
+- 👀 I’m interested in fullstack and Web3 Developme
 - 🌐 Contributing to OSS projects.
+
 ---
 
  <div>
