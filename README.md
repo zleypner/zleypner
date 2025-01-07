@@ -3,7 +3,6 @@
 ## 👨‍💻 Software Engineer | 🌐 Web3 Developer
 
 ### Building 🚀
-- 🏦 Security Deposits DApp - Transforming rental deposits on-chain
 - 🛠️ Contributing to Web3 open source projects
 - 🔗 Exploring blockchain solutions for real-world use cases
 - 👀 I’m interested in fullstack and Web3 Developme
