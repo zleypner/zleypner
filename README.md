@@ -1,10 +1,14 @@
 <h1 style=font-size:25px>Hi, I’m Anwar 👋</h1> 
 
+## 👨‍💻 Software Engineer | 🌐 Web3 Developer
+
 ### Building 🚀
 - 🏦 Security Deposits DApp - Transforming rental deposits on-chain
 - 🛠️ Contributing to Web3 open source projects
 - 🔗 Exploring blockchain solutions for real-world use cases
 - 👀 I’m interested in fullstack and Web3 Developme
+
+Let's build something amazing! ✨
 ---
  <div>
 <div>
