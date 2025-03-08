@@ -3,9 +3,10 @@
 ## 👨‍💻 Software Engineer | 🌐 Web3 Developer
 
 ### Building 🚀
-- 🛠️ Contributing to Web3 open source projects
-- 🔗 Exploring blockchain solutions for real-world use cases
-- 👀 I’m interested in fullstack and Web3 Development
+
+- 🛠️ Contributing to Web3 open-source projects
+- 🔗 Striving to constantly improve as a software developer by creating projects with real-world impact
+- 👀 Interested in full-stack and Web3 development
 
 Let's build something amazing! ✨
 ---
