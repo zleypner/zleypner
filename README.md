@@ -2,8 +2,7 @@
 
 ## Full Stack Web Engineer 🌐 
 
-### Building 🚀
-
+- Building 🚀
 - 🛠️ Contributing to Web3 open-source projects
 - 🔗 Striving to constantly improve as a software developer by creating projects with real-world impact
 ---
