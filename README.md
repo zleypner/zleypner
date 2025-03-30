@@ -6,9 +6,6 @@
 
 - 🛠️ Contributing to Web3 open-source projects
 - 🔗 Striving to constantly improve as a software developer by creating projects with real-world impact
-- 👀 Interested in full-stack and Web3 development
-
-Let's build something amazing! ✨
 ---
  <div>
 <div>
