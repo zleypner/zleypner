@@ -1,6 +1,6 @@
 <h1 style=font-size:25px>Hi, I’m Anwar 👋</h1> 
 
-## 👨‍💻 Software Engineer | 🌐 Web3 Developer
+## Full Stack Web Engineer 🌐 
 
 ### Building 🚀
 
