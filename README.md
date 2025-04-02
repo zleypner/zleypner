@@ -1,6 +1,6 @@
 <h1 style=font-size:25px>Hi, I’m Anwar 👋</h1> 
 
-## Full Stack Web Engineer 🌐 
+## Full Stack Web Developer 🌐 
 I'm Anwar Sanchez, a passionate Full Stack Software Developer with a solid foundation in software engineering and over 4 years of hands-on experience in the industry. 🚀
 🎓 I hold a Bachelor's degree in Software Engineering.
 
