@@ -5,8 +5,8 @@ I'm Anwar Sanchez, a passionate Full Stack Software Developer with a solid found
 🎓 I hold a Bachelor's degree in Software Engineering from UNED, complemented by an advanced level of English (C2) from Centro Cultural Norte Americano, and Web3 education from Dojo Coding.
 💻 In my 4+ years of professional experience. My areas of expertise span across React, TypeScript, Next.js, GraphQL, RESTful APIs, and Docker, and I thrive in dynamic environments where innovation and performance optimization are at the forefront. I'm also a Web3 enthusiast.
 
-**🌐 Outside the realm of coding, you might find me enjoying the smell of freshly brewed coffee with a good book in hand, constantly learning and exploring new ideas. I also enjoy delivering presentations and public speaking, mentoring contributors through code reviews, and taking on technical challenges that push my skills further.
-**---
+🌐 Outside the realm of coding, you might find me enjoying the smell of freshly brewed coffee with a good book in hand, constantly learning and exploring new ideas. I also enjoy delivering presentations and public speaking, mentoring contributors through code reviews, and taking on technical challenges that push my skills further.
+
  <div>
 <div>
   <h3> Tech Stack</h3>
