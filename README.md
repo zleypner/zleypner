@@ -9,8 +9,6 @@ I’m **Anwar Sanchez**, a passionate Full Stack Developer with **4+ years of ex
 ⚡ Strong background in **clean architecture, testing, and CI/CD pipelines**  
 🌐 Enthusiast of Web3 and emerging technologies  
 
-I thrive in **fast-paced, collaborative environments**, where I’ve shipped applications serving **thousands of enterprise users**, optimized performance across large-scale systems, and mentored developers through code reviews and technical guidance.  
-
 Outside of coding, I enjoy **public speaking, mentoring, and exploring new technologies** — always with a cup of coffee and a good book. ☕📚  
 
 ---
