@@ -2,7 +2,7 @@
 
 ## 🚀 Full Stack Software Engineer  
 
-I’m **Anwar Sanchez**, a passionate Full Stack Developer with **4+ years of experience** building scalable web applications and delivering high-quality software solutions.  
+I’m **Anwar Sanchez**, a passionate Full Stack Developer with **5+ years of experience** building scalable web applications and delivering high-quality software solutions.  
 
 🎓 Bachelor’s in Software Engineering  
 💻 Skilled in **React, TypeScript, Next.js, Node.js, GraphQL, REST, SQL, and Docker**  
