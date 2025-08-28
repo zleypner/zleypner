@@ -1,40 +1,35 @@
-<h1 style=font-size:25px>Hi, I’m Anwar 👋</h1> 
+<h1 style="font-size:25px">Hi, I’m Anwar 👋</h1> 
 
-## Full Stack Web Developer 🌐 
-I'm Anwar Sanchez, a passionate Full Stack Software Developer with a solid foundation in software engineering and over 4 years of hands-on experience in the industry. 🚀
-🎓 I hold a Bachelor's degree in Software Engineering.
+## 🚀 Full Stack Software Engineer  
 
-💻 In my 4+ years of professional experience, my areas of expertise span across React, TypeScript, Next.js, JS, JAVA, C++, GraphQL, SQL, RESTful APIs, and Docker, and I thrive in dynamic environments where innovation and performance optimization are at the forefront. I'm also a Web3 enthusiast.
+I’m **Anwar Sanchez**, a passionate Full Stack Developer with **4+ years of experience** building scalable web applications and delivering high-quality software solutions.  
 
-🌐 Outside the realm of coding, you might find me enjoying the smell of freshly brewed coffee with a good book in hand. Constantly learning and exploring new ideas. I also enjoy delivering presentations and public speaking, mentoring contributors through code reviews, and taking on technical challenges that push my skills further.
+🎓 Bachelor’s in Software Engineering  
+💻 Skilled in **React, TypeScript, Next.js, Node.js, GraphQL, REST, SQL, and Docker**  
+⚡ Strong background in **clean architecture, testing, and CI/CD pipelines**  
+🌐 Enthusiast of Web3 and emerging technologies  
 
- <div>
+I thrive in **fast-paced, collaborative environments**, where I’ve shipped applications serving **thousands of enterprise users**, optimized performance across large-scale systems, and mentored developers through code reviews and technical guidance.  
+
+Outside of coding, I enjoy **public speaking, mentoring, and exploring new technologies** — always with a cup of coffee and a good book. ☕📚  
+
+---
+
+## 🛠️ Tech Stack  
+
 <div>
-  <h3> Tech Stack</h3>
-  <img src=https://go-skill-icons.vercel.app/api/icons?i=ts,react,angular,js,html,css,cairo,solidity,rust,git,nodejs,npm,sql,/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,react,nextjs,nodejs,express,graphql,sql,postgres,docker,git,html,css,js,angular" />
 </div>
-<br/>
+
+---
+
+## 📊 GitHub Stats  
 
 ![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zleypner&show_icons=true&theme=vue-dark)
-</div>
 
-<div></div>
+---
 
-
-
-
-
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Exploring  
+- Advanced **system design** patterns  
+- **AI + Web development** integrations  
+- **Performance optimization** for enterprise-scale apps  
