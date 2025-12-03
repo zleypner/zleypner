@@ -21,11 +21,6 @@ Outside of coding, I enjoy **public speaking, mentoring, and exploring new techn
 
 ---
 
-## 📊 GitHub Stats  
-
-![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zleypner&show_icons=true&theme=vue-dark)
-
----
 
 ## 🌱 Currently Exploring  
 - Advanced **system design** patterns  
