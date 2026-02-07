@@ -1,4 +1,3 @@
-```markdown
 <h1 style="font-size:25px">Hi, I’m Anwar 👋</h1>
 
 ## 🚀 Full Stack & Backend Software Engineer  
@@ -31,4 +30,3 @@ Outside of building software, I enjoy **public speaking, mentoring, and explorin
 - **High-performance full-stack patterns** for enterprise-grade apps  
 
 ---
-```
