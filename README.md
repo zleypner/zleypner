@@ -17,7 +17,7 @@ I specialize in designing **robust digital infrastructures** that combine **full
 ## 🛠️ Tech Stack
 
 <div>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,react,nextjs,nodejs,express,graphql,postgres,sql,docker,git,html,css,js,angular,python,aws,azure,gcp" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,react,nextjs,nodejs,express,graphql,postgres,docker,git,html,css,js,angular,python,aws,azure,gcp" />
 </div>
 
 ### ⚙️ Backend & Systems
